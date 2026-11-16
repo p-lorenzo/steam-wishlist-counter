@@ -1,0 +1,6 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/widget_root" android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical" android:padding="18dp" android:background="@drawable/widget_background">
+    <TextView android:id="@+id/widget_name" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Wishlist Counter" android:textSize="14sp" android:textStyle="bold" android:textColor="@color/widget_text" android:maxLines="1" android:ellipsize="end" />
+    <TextView android:id="@+id/widget_label" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Open app to configure" android:textSize="11sp" android:textColor="@color/widget_muted" android:layout_marginTop="8dp" />
+    <TextView android:id="@+id/widget_number" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="—" android:textSize="34sp" android:textStyle="bold" android:textColor="@color/widget_text" android:maxLines="1" android:ellipsize="end" />
+    <TextView android:id="@+id/widget_date" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="No reports yet" android:textSize="11sp" android:textColor="@color/widget_muted" />
+</LinearLayout>
