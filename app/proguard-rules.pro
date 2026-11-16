@@ -1,0 +1,2 @@
+-keep class dev.wishlist.counter.** { *; }
+-dontwarn java.lang.invoke.StringConcatFactory
