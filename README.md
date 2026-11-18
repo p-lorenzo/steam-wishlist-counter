@@ -4,6 +4,16 @@ Open-source Android companion for Steamworks developers. Built with native Kotli
 
 > **Disclaimer**: Unofficial tool for game developers. Not affiliated with, endorsed, or sponsored by Valve Corporation.
 
+## Screenshots
+
+The Android app in dark mode, with demo data for Mosslight.
+
+<p align="center">
+  <a href="docs/screenshots/01-wishlist-trends.png"><img src="docs/screenshots/01-wishlist-trends.png" width="235" alt="Wishlist trends with daily additions and net change"></a>
+  <a href="docs/screenshots/02-sales-and-revenue.png"><img src="docs/screenshots/02-sales-and-revenue.png" width="235" alt="Sales and revenue with a daily trend and net units"></a>
+  <a href="docs/screenshots/03-store-and-community.png"><img src="docs/screenshots/03-store-and-community.png" width="235" alt="Store and community with live players and reviews"></a>
+</p>
+
 ## Views & Metrics
 
 Each monitored game provides a unified date interval selector (`7d`, `30d`, `90d`, `Custom`) across three dedicated views:
